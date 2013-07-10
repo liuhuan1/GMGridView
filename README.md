@@ -25,6 +25,12 @@ New feature requests are welcome. (ping [@gmoledina](http://twitter.com/gmoledin
 
 ---
 
+
+**My Custom**
+
+Touch event in cell will like UITableViewCell . When I touch a UIControl, the delegate didTapOnItemAtIndex: will not be trigger! 
+
+
 **Fresh from the baking oven**:
 
 *  The component is now shipped as a static library
